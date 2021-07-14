@@ -1,0 +1,45 @@
+h1{
+    text-align: center  ;
+}
+#result{
+    position: relative;
+    background: white;
+    text-align: center;
+    color: #153;
+    width: 400px;
+    height: 30px;
+    margin-left: 25%;
+    margin-bottom: 10px;
+}
+fieldset {
+    border: 5px solid green;
+    width: 50%;
+    padding: 10px;
+    margin-left: 20%;
+}
+legend {
+    background: #153;
+    color: white;
+    padding: 10px;
+}
+
+body {
+    color: white;
+    background-color: rgba(0, 0, 0, 0.281);
+}
+#generate{
+    background: green;
+    color: white;
+    margin: 0px 0px 0px 20%;
+}
+#copy{
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+    background: green;
+    color: white;
+    margin: 0px;
+    height: 30px;
+    cursor:copy;
+    
+}
